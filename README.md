@@ -44,7 +44,7 @@ sources on 25 November 2026. Sources are listed at the foot of the page.
 
 ## How it is made
 
-`entry.png` (1536 × 1536, under 1 MiB) is drawn by a generator script
+`entry.png` (1024 × 1024, under 1 MiB) is drawn by a generator script
 kept outside this repository — it lays out the page with PIL, draws every
 scene as vector shapes (no photographs, no logos), and plots the world
 map from Natural Earth's public-domain 1:110m land polygons. `main.ts`
