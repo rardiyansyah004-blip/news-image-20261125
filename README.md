@@ -1,8 +1,8 @@
 # Wednesday 25 November 2026 — The World in One Day
 
-[![Bounty](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
-[![Rank](https://make.fun/badge/news-image-20261125/rardiyansyah004-blip/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125)
-[![Reward](https://make.fun/badge/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/rardiyansyah004-blip/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/rardiyansyah004-blip/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 Entry for the [make.fun bounty "Sum up 25 November's world news in one image"](https://make.fun/bounty/news-image-20261125).
 
@@ -10,6 +10,8 @@ One page, one day: **33 dated stories** from Wednesday 25 November 2026 —
 3 lead stories, 8 illustrated stories, and 22 more in brief — across
 7 regions (Asia 9, Middle East 4, Europe 6, Americas 6, Africa 3,
 Oceania 4, Global 1).
+
+Referral: https://make.fun/r/g75rgwrg
 
 ## What is on the page
 
