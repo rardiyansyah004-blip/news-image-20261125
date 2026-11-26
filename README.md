@@ -6,16 +6,17 @@
 
 Entry for the [make.fun bounty "Sum up 25 November's world news in one image"](https://make.fun/bounty/news-image-20261125).
 
-One page, one day: **33 dated stories** from Wednesday 25 November 2026 —
-3 lead stories, 8 illustrated stories, and 22 more in brief — across
-7 regions (Asia 9, Middle East 4, Europe 6, Americas 6, Africa 3,
-Oceania 4, Global 1).
+One page, one day: **50 dated stories** from Wednesday 25 November 2026 —
+3 lead stories, 12 illustrated stories, and 35 more in brief — across
+10 regions (East Asia 6, South Asia 2, Southeast Asia 1, Middle East 9,
+Europe 11, North America 8, South America 1, Africa 7, Oceania 4,
+Global 1).
 
 Referral: https://make.fun/r/g75rgwrg
 
 ## What is on the page
 
-- **Three lead scenes**, all drawn from scratch: Shenzhou-24 carries
+- **Three lead scenes** (of 15 drawn scenes in all), all drawn from scratch: Shenzhou-24 carries
   Pakistan's first astronaut into orbit; Asia's chip stocks crash as the
   AI rally reverses; two tankers burn in the Strait of Hormuz after
   hitting mines.
@@ -24,10 +25,12 @@ Referral: https://make.fun/r/g75rgwrg
 - **Key numbers** — 1st Pakistani in orbit, Kospi −6.2%, 2 tankers hit,
   47,000 women killed by a partner or family member in 2025, 26 miners
   trapped in a flooded pit in Bogor, +36% garment pay rise in Bangladesh.
-- **Eight illustrated stories** — the Australia–Solomon Islands security
+- **Twelve illustrated stories** — the Australia–Solomon Islands security
   treaty, the UN femicide count, Huawei's guilty verdict, the Ras Tanura
   drone attack, the Bogor mine flood, Bangladesh's wage rise, the Samara
-  refinery strikes, and the WHO pull-out from an Ebola zone hospital.
+  refinery strikes, the WHO pull-out from an Ebola zone hospital, Real
+  Madrid's 5–1 rout of PSV, Sooryavanshi's 204 off 53 balls, the Cairo
+  fuel-tanker blaze, and Farage's Keep Britain Out launch.
 - **Where it happened** — a numbered world map; every pin is a story.
 - **How sure** — every story carries a label: OFFICIAL (a government,
   agency or company statement), CONFIRMED (two or more major outlets),
@@ -56,7 +59,7 @@ byte-identical on every run.
 
 ```sh
 node main.ts
-# writes /output/entry.png (376,897 bytes at the time of writing)
+# writes /output/entry.png (847,618 bytes at the time of writing)
 ```
 
 ## License
